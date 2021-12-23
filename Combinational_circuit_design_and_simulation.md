@@ -31,3 +31,7 @@ After compilation if there are no errors then a.out file will be generated as sh
 ![image](https://user-images.githubusercontent.com/92289264/147234312-f5d1a02a-e86e-48ac-8ba0-44a24d9504c7.png)
 
 To run that a.out file
+![image](https://user-images.githubusercontent.com/92289264/147235094-2170d741-afb4-425a-a66c-ab18a2f20f77.png)
+
+The simulation result of 2-bit multiplier is
+![image](https://user-images.githubusercontent.com/92289264/147235187-c8f9b946-c12d-4edb-a5dc-5bc99603e94f.png)
