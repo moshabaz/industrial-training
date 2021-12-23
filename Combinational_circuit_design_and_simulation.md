@@ -10,3 +10,9 @@ Step1: how to open terminal in linux
 Fig.1 It shows that how to open a terminal in linux.
 
 we have to just right click on open terminal.  
+
+<h3>Example Design : 2-bit multiplier </h3>
+
+First create the directory for multiplier design which is shown in the figure below
+
+![image](https://user-images.githubusercontent.com/92289264/147221983-a7ed556d-4382-4d7a-a1fb-7b4cbd44ffb0.png)
