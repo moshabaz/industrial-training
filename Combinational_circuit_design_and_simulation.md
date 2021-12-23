@@ -16,3 +16,11 @@ we have to just right click on open terminal.
 First create the directory for multiplier design which is shown in the figure below
 
 ![image](https://user-images.githubusercontent.com/92289264/147221983-a7ed556d-4382-4d7a-a1fb-7b4cbd44ffb0.png)
+
+After creating the multiplier directory go to the created directory as shown in the figure below
+
+![image](https://user-images.githubusercontent.com/92289264/147222483-15e26145-b90a-4353-bfd2-a7c2e6d096ee.png)
+
+To create a verilog file follow as shown in the figure below
+![image](https://user-images.githubusercontent.com/92289264/147222663-ac96202c-fec0-41e2-9cb5-71bd0a4edda5.png)
+
