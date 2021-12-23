@@ -29,3 +29,5 @@ For compiling the design and testbench file follow as shown in the fig.
 
 After compilation if there are no errors then a.out file will be generated as shown below
 ![image](https://user-images.githubusercontent.com/92289264/147234312-f5d1a02a-e86e-48ac-8ba0-44a24d9504c7.png)
+
+To run that a.out file
