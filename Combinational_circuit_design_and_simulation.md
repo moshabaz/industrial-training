@@ -35,3 +35,5 @@ To run that a.out file
 
 The simulation result of 2-bit multiplier is
 ![image](https://user-images.githubusercontent.com/92289264/147235187-c8f9b946-c12d-4edb-a5dc-5bc99603e94f.png)
+
+
