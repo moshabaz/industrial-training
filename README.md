@@ -1,6 +1,6 @@
 # industrial-training
 
-HELLO THIS IS ABDUL MAJEED, I am doing this training as part of my Diploma. 
+HELLO THIS IS Mohammed shabaz khan I am doing this training as part of my Diploma. 
 
 1.Digital IC Design
 
